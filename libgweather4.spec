@@ -4,7 +4,7 @@
 #
 Name     : libgweather4
 Version  : 4.0.0
-Release  : 27
+Release  : 28
 URL      : https://download.gnome.org/sources/libgweather/4.0/libgweather-4.0.0.tar.xz
 Source0  : https://download.gnome.org/sources/libgweather/4.0/libgweather-4.0.0.tar.xz
 Summary  : GObject-Introspection based documentation generator
